@@ -1,6 +1,6 @@
 {
-  "name": "Rainfall Monitor",
-  "short_name": "TNCF",
+  "name": "absensi",
+  "short_name": "intern",
   "start_url": "./",
   "display": "standalone",
   "background_color": "#111827",
